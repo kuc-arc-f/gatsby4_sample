@@ -25,7 +25,7 @@ https://github.com/kuc-arc-f/apollo_cms1
 
 * gatsby-config.js : 
 
-* GATSBY_API_URL: apollo-server URL indpoint
+* GATSBY_API_URL: apollo-server URL endpoint
 
 * GATSBY_API_SITE_ID: siteId , headless CMS
 
@@ -48,6 +48,8 @@ yarn build
 
 ***
 ### Blog :
+
+https://zenn.dev/knaka0209/books/4ee53bad905ec2/viewer/320422
 
 ***
 
